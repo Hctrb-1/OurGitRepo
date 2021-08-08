@@ -1,2 +1,2 @@
 # OurGitRepo
-This is a git example
+This some new text
